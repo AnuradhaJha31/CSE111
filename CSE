@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tables in HTML</title>
+</head>
+<body>
+    <table border="2" cellpadding="10" cellspacing="5" background="back.jpg">
+        <thead>
+            <tr>
+                <th>Roll no.</th>
+                <th>Course</th>
+                <th>Marks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Simran Malhi</td>
+                <td>Btech - CSE</td>
+                <td>100</td>
+            </tr>
+            <tr>
+                <td>Navdeep</td>
+                <td>BA</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>Adarsh</td>
+                <td>BA</td>
+                <td>25</td>
+            </tr>
+        </tbody>
+ </table>
+</body>
+</html>
